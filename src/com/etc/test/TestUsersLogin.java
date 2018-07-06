@@ -7,11 +7,11 @@ import com.etc.service.impl.UsersSerivceImpl;
 public class TestUsersLogin {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO xxxxxxxxxx
 
 		UsersSerivce us = new UsersSerivceImpl();
 
-		Users u = us.login("affff", "123456");
+		Users u = us.login("ssss", "123123123");
 
 		System.out.println(u);
 	}
